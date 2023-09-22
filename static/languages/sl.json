@@ -1,5 +1,5 @@
 {
-  "heading": "Zaznana poštenost ukrepov EU v smeri poštenega zelenega prehoda v EU",
+  "heading": "Zaznana pravičnost ukrepov EU v smeri poštenega zelenega prehoda v EU",
   "subheading": "88 % vprašanih državljanov EU se popolnoma strinja, da zeleni prehod ne bi smel nikogar pustiti ob strani, 50 % pa meni, da EU ravna ustrezno",
   "legend1": "Ni podatkov",
   "tooltip1": "ukrepe za zeleni prehod razumejo kot pravične",
@@ -9,23 +9,5 @@
   "textNote": "Od 30. 5. 2022 do 28. 6. 2022 je bilo anketiranih 26.395 državljanov EU",
   "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
-  "textCountryClick": "Kliknite za več informacij",
-  "extraInfoText_BE": "",
-  "extraInfoLink_BE": "",
-  "extraInfoText_DE": "",
-  "extraInfoLink_DE": "",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "",
-  "extraInfoLink_IT": "",
-  "extraInfoText_LU": "",
-  "extraInfoLink_LU": "",
-  "extraInfoText_PL": "",
-  "extraInfoLink_PL": "",
-  "extraInfoText_RO": "",
-  "extraInfoLink_RO": "",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Kliknite za več informacij"
 }

@@ -1,5 +1,5 @@
 {
-  "heading": "Cothroime Ghníomhartha an AE i dtreo Trasdulta Cóir Glas san AE",
+  "heading": "Cothroime Ghníomhartha an AE i dTreo Aistrithe Cothrom Glas san AE",
   "subheading": "Aontaíonn 88% de shaoránaigh an AE a cuireadh faoi agallamh nár cheart go bhfágfadh an t-aistriú glas éinne ina ndiaidh agus ceapann 50% go bhfuil an AE ag gníomhú go cuí.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "a mheas go bhfuil na bearta i dtreo an aistrithe glas cothrom",
@@ -9,23 +9,5 @@
   "textNote": "Cuireadh agallamh ar 26.395 saoránach AE ó 30.05.2022 go 28.06.2022",
   "textDataAccess": "Faigh rochtain ar na sonraí",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
-  "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais",
-  "extraInfoText_BE": "",
-  "extraInfoLink_BE": "",
-  "extraInfoText_DE": "",
-  "extraInfoLink_DE": "",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "",
-  "extraInfoLink_IT": "",
-  "extraInfoText_LU": "",
-  "extraInfoLink_LU": "",
-  "extraInfoText_PL": "",
-  "extraInfoLink_PL": "",
-  "extraInfoText_RO": "",
-  "extraInfoLink_RO": "",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }
