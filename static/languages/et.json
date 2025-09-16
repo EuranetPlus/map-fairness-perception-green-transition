@@ -1,12 +1,12 @@
 {
-  "heading": "ELi meetmete õiglane tajumine õiglase rohelise ülemineku suunas ELis",
-  "subheading": "88% küsitletud ELi kodanikest nõustub täielikult sellega, et roheline üleminek ei tohi kedagi maha jätta ja 50% arvab, et EL tegutseb adekvaatselt",
-  "legend1": "Andmed puuduvad",
+  "heading": "Kas EL teeb piisavalt, et tagada õiglane ökoloogiline üleminek kogu Euroopa Liidus?",
+  "subheading": "88% Euroopa kodanikest usub, et rohelisele majandusele ülemineku prioriteet on see, et kedagi maha ei jäetaks. 50% arvab, et EL võtab piisavaid meetmeid.",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "peavad rohelisele üleminekule suunatud meetmeid õiglaseks",
   "textSourceDescription": "Allikas",
   "textSource": "Eurobaromeeter",
-  "textNoteDescription": "Märge",
-  "textNote": "Ajavahemikus 30.05.2022 kuni 28.06.2022 küsitleti 26 395 EL-i kodanikku",
+  "textNoteDescription": "Märkus",
+  "textNote": "30.05.2022–28.06.2022 küsitleti 26 395 ELi kodanikku.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

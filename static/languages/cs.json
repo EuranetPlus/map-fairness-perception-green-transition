@@ -1,12 +1,12 @@
 {
-  "heading": "Vnímaná spravedlivost akcí EU směrem ke spravedlivému zelenému přechodu v EU",
-  "subheading": "88 % dotázaných občanů EU zcela souhlasí s tím, že ekologický přechod nesmí nikoho nechat pozadu, a 50 % si myslí, že EU jedná adekvátně.",
-  "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltip1": "vnímat opatření k zelenému přechodu jako spravedlivé",
+  "heading": "Dělá EU dostatek pro zajištění spravedlivé ekologické transformace v celé Evropské unii?",
+  "subheading": "88 % evropských občanů se domnívá, že prioritou zelené transformace je nenechat nikoho pozadu. 50 % si myslí, že EU podniká odpovídající kroky.",
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltip1": "vnímají opatření směrem k zelené transformaci jako spravedlivá",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurobarometr",
   "textNoteDescription": "Poznámka",
-  "textNote": "Od 30.05.2022 do 28.06.2022 bylo dotazováno 26 395 občanů EU",
+  "textNote": "V období od 30. 5. 2022 do 28. 6. 2022 bylo dotazováno 26 395 občanů EU.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
   "textCountryClick": "Klikněte pro více informací"

@@ -1,13 +1,13 @@
 {
-  "heading": "Suvoktas ES veiksmų teisingumas siekiant sąžiningo ekologiško perėjimo ES",
-  "subheading": "88 % apklausoje dalyvavusių ES piliečių visiškai sutinka, kad perėjimas prie ekologiško perėjimo nieko nepaliks nuošalyje, o 50 % mano, kad ES elgiasi tinkamai.",
+  "heading": "Ar ES daro pakankamai, kad užtikrintų teisingą ekologinę pertvarką visoje Europos Sąjungoje?",
+  "subheading": "88 % Europos piliečių mano, kad žaliosios pertvarkos prioritetas yra niekas nepalikti nuošalyje. 50 % mano, kad ES imasi tinkamų veiksmų.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "perėjimo prie žaliojo perėjimo priemones suvokti kaip sąžiningas",
+  "tooltip1": "žaliosios pertvarkos priemones vertina kaip teisingas",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurobarometras",
   "textNoteDescription": "Pastaba",
-  "textNote": "Nuo 2022-05-30 iki 2022-06-28 buvo apklausti 26 395 ES piliečiai",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Nuo 2022 m. gegužės 30 d. iki birželio 28 d. buvo apklausti 26 395 ES piliečiai.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Wahrgenommene Fairness der EU-Maßnahmen für einen fairen grünen Übergang in der EU",
-  "subheading": "88 % der befragten EU-Bürger stimmen voll und ganz darin überein, dass der grüne Übergang niemanden zurücklassen darf, und 50 % sind der Meinung, dass die EU angemessen handelt",
+  "heading": "Tut die EU genug, um einen gerechten ökologischen Wandel in der gesamten Europäischen Union sicherzustellen?",
+  "subheading": "88 % der europäischen Bürger sind der Ansicht, dass es bei der grünen Wende vorrangig darum geht, niemanden zurückzulassen. 50 % sind der Meinung, dass die EU angemessene Maßnahmen ergreift.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "empfinden die Maßnahmen zur grünen Wende als gerecht",
+  "tooltip1": "die Maßnahmen zur grünen Wende als fair empfinden",
   "textSourceDescription": "Quelle",
   "textSource": "Eurobarometer",
   "textNoteDescription": "Notiz",
-  "textNote": "Vom 30.05.2022 bis 28.06.2022 wurden 26.395 EU-Bürger befragt",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "26.395 EU-Bürger wurden vom 30.05.2022 bis 28.06.2022 befragt",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

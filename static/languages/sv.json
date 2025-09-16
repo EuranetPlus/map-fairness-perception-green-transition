@@ -1,13 +1,13 @@
 {
-  "heading": "Upplevd rättvisa i EU:s åtgärder mot en rättvis grön övergång i EU",
-  "subheading": "88 % av de tillfrågade EU-medborgarna håller helt med om att den gröna omställningen inte får lämna någon bakom sig och 50 % tycker att EU agerar adekvat",
-  "legend1": "Ingen data tillgänglig",
-  "tooltip1": "uppfattar åtgärderna mot den gröna omställningen som rättvisa",
+  "heading": "Gör EU tillräckligt för att säkerställa en rättvis ekologisk omställning i hela Europeiska unionen?",
+  "subheading": "88 % av de europeiska medborgarna anser att det är en prioritet för den gröna omställningen att ingen lämnas utanför. 50 % anser att EU vidtar tillräckliga åtgärder.",
+  "legend1": "Inga data tillgängliga",
+  "tooltip1": "uppfatta åtgärderna för den gröna omställningen som rättvisa",
   "textSourceDescription": "Källa",
-  "textSource": "Eurobarometer",
+  "textSource": "Eurobarometern",
   "textNoteDescription": "Notera",
-  "textNote": "26 395 EU-medborgare intervjuades från 30.05.2022 till 28.06.2022",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "26 395 EU-medborgare intervjuades mellan 30.05.2022 och 28.06.2022.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

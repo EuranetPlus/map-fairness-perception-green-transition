@@ -1,13 +1,13 @@
 {
-  "heading": "Koettu EU:n toimien oikeudenmukaisuus kohti oikeudenmukaista vihreää siirtymää EU:ssa",
-  "subheading": "88 prosenttia kyselyyn vastanneista EU:n kansalaisista on täysin samaa mieltä siitä, että vihreä siirtymä ei saa jättää ketään jälkeen, ja 50 prosenttia uskoo, että EU toimii asianmukaisesti",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "pitävät vihreään siirtymiseen tähtääviä toimia oikeudenmukaisina",
+  "heading": "Tekeekö EU riittävästi varmistaakseen oikeudenmukaisen ekologisen siirtymän koko Euroopan unionissa?",
+  "subheading": "88 % eurooppalaisista uskoo, että vihreän siirtymän ensisijaisena tavoitteena on, ettei ketään jätetä jälkeen. 50 % on sitä mieltä, että EU ryhtyy riittäviin toimiin.",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltip1": "pitää vihreään siirtymään tähtääviä toimenpiteitä oikeudenmukaisina",
   "textSourceDescription": "Lähde",
   "textSource": "Eurobarometri",
   "textNoteDescription": "Huomautus",
-  "textNote": "26 395 EU-kansalaista haastateltiin 30.5.2022-28.06.2022",
+  "textNote": "26 395 EU:n kansalaista haastateltiin 30.5.2022–28.6.2022.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Echitatea percepută a acțiunilor UE către o tranziție verde echitabilă în UE",
-  "subheading": "88% dintre cetățenii UE chestionați sunt complet de acord că tranziția ecologică nu trebuie să lase pe nimeni în urmă și 50% cred că UE acționează în mod adecvat",
-  "legend1": "Nici o informatie disponibila",
-  "tooltip1": "percepe măsurile către tranziția verde ca fiind corecte",
+  "heading": "Face UE suficient pentru a asigura o tranziție ecologică echitabilă în întreaga Uniune Europeană?",
+  "subheading": "88% dintre cetățenii europeni consideră că este o prioritate pentru tranziția verde să nu lase pe nimeni în urmă. 50% consideră că UE ia măsuri adecvate.",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "percep măsurile vizând tranziția verde ca fiind corecte",
   "textSourceDescription": "Sursă",
   "textSource": "Eurobarometru",
-  "textNoteDescription": "Notă",
-  "textNote": "26.395 cetățeni UE au fost intervievați în perioada 30.05.2022 - 28.06.2022",
+  "textNoteDescription": "Nota",
+  "textNote": "26.395 de cetățeni ai UE au fost intervievați în perioada 30.05.2022 - 28.06.2022",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

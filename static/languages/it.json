@@ -1,13 +1,13 @@
 {
-  "heading": "Equità percepita delle azioni dell’UE verso una transizione verde equa nell’UE",
-  "subheading": "L’88% dei cittadini europei intervistati concorda pienamente sul fatto che la transizione verde non deve lasciare indietro nessuno e il 50% pensa che l’UE stia agendo in modo adeguato",
+  "heading": "L'UE sta facendo abbastanza per garantire una transizione ecologica equa in tutta l'Unione europea?",
+  "subheading": "L'88% dei cittadini europei ritiene che la transizione verde non lasci indietro nessuno e che il 50% ritiene che l'UE stia adottando misure adeguate.",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "percepire come giuste le misure verso la transizione verde",
+  "tooltip1": "percepire le misure verso la transizione verde come giuste",
   "textSourceDescription": "Fonte",
   "textSource": "Eurobarometro",
   "textNoteDescription": "Nota",
-  "textNote": "Dal 30.05.2022 al 28.06.2022 sono stati intervistati 26.395 cittadini comunitari",
+  "textNote": "Sono stati intervistati 26.395 cittadini dell'UE dal 30.05.2022 al 28.06.2022",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
-  "textCountryClick": "Fare clic per maggiori informazioni"
+  "textCountryClick": "Clicca per maggiori informazioni"
 }

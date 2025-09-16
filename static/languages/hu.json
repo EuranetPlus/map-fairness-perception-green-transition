@@ -1,13 +1,13 @@
 {
-  "heading": "Az EU fellépéseinek méltányossága a méltányos zöld átmenet felé az EU-ban",
-  "subheading": "A megkérdezett uniós polgárok 88%-a teljesen egyetért azzal, hogy a zöld átállás senkit sem hagyhat maga mögött, és 50%-uk úgy gondolja, hogy az EU megfelelően cselekszik",
-  "legend1": "Nincs elérhető adat",
-  "tooltip1": "igazságosnak ítéli meg a zöld átállás felé tett intézkedéseket",
+  "heading": "Eleget tesz az EU az Európai Unió egész területén méltányos ökológiai átmenet biztosítása érdekében?",
+  "subheading": "Az európai polgárok 88%-a úgy véli, hogy a zöld átállás egyik prioritása, hogy senki ne maradjon le. 50%-uk úgy gondolja, hogy az EU megfelelő intézkedéseket tesz.",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "a zöld átállást célzó intézkedéseket igazságosnak tartják",
   "textSourceDescription": "Forrás",
   "textSource": "Eurobarométer",
-  "textNoteDescription": "jegyzet",
-  "textNote": "26 395 uniós polgárt kérdeztek meg 2022.05.30. és 2022.06.28.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "2022. május 30. és június 28. között 26 395 uniós polgárt kérdeztek meg.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

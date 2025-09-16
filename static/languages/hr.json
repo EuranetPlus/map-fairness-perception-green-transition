@@ -1,13 +1,13 @@
 {
-  "heading": "Percipirana pravednost akcija EU prema pravednoj zelenoj tranziciji u EU",
-  "subheading": "88% ispitanih građana EU-a u potpunosti se slaže da zelena tranzicija ne smije nikoga zaostaviti, a 50% misli da EU djeluje primjereno",
+  "heading": "Čini li EU dovoljno kako bi osigurala pravednu ekološku tranziciju diljem Europske unije?",
+  "subheading": "88% europskih građana smatra da je prioritet zelene tranzicije nitko ne biti zapostavljen. 50% smatra da EU poduzima odgovarajuće mjere.",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "mjere prema zelenoj tranziciji doživljavaju pravednima",
+  "tooltip1": "smatraju mjere prema zelenoj tranziciji pravednima",
   "textSourceDescription": "Izvor",
   "textSource": "Eurobarometar",
   "textNoteDescription": "Bilješka",
-  "textNote": "26.395 građana EU-a intervjuirano je od 30. svibnja 2022. do 28. lipnja 2022.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "26.395 građana EU intervjuirano je od 30.05.2022. do 28.06.2022.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
   "textCountryClick": "Kliknite za više informacija"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Equidad percibida de las acciones de la UE hacia una transición verde justa en la UE",
-  "subheading": "El 88% de los ciudadanos de la UE encuestados están totalmente de acuerdo en que la transición verde no debe dejar a nadie atrás y el 50% cree que la UE está actuando adecuadamente",
-  "legend1": "Datos no disponibles",
-  "tooltip1": "percibir las medidas hacia la transición verde como justas",
+  "heading": "¿Está haciendo la UE lo suficiente para garantizar una transición ecológica equitativa en toda la Unión Europea?",
+  "subheading": "El 88% de los ciudadanos europeos cree que es prioritario que la transición verde no deje a nadie atrás. El 50% piensa que la UE está tomando medidas adecuadas.",
+  "legend1": "No hay datos disponibles",
+  "tooltip1": "Percibir las medidas hacia la transición verde como justas",
   "textSourceDescription": "Fuente",
   "textSource": "Eurobarómetro",
   "textNoteDescription": "Nota",
-  "textNote": "26.395 ciudadanos de la UE fueron entrevistados del 30.05.2022 al 28.06.2022",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
+  "textNote": "Se entrevistó a 26.395 ciudadanos de la UE entre el 30 de mayo de 2022 y el 28 de junio de 2022.",
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://europa.eu/eurobarómetro/surveys/detail/2672",
   "textCountryClick": "Haga clic para más información"
 }

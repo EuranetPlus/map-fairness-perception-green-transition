@@ -1,13 +1,13 @@
 {
-  "heading": "Postrzegana uczciwość działań UE na rzecz sprawiedliwej zielonej transformacji w UE",
-  "subheading": "88% ankietowanych obywateli UE całkowicie zgadza się, że transformacja ekologiczna nie może nikogo pozostawić w tyle, a 50% uważa, że UE działa odpowiednio",
+  "heading": "Czy UE robi wystarczająco dużo, aby zapewnić sprawiedliwą transformację ekologiczną w całej Unii Europejskiej?",
+  "subheading": "88% obywateli Europy uważa, że priorytetem zielonej transformacji jest to, aby nikt nie został pominięty. 50% uważa, że UE podejmuje odpowiednie działania.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "postrzegają działania na rzecz zielonej transformacji jako sprawiedliwe",
+  "tooltip1": "postrzegać środki podejmowane w ramach zielonej transformacji jako sprawiedliwe",
   "textSourceDescription": "Źródło",
   "textSource": "Eurobarometr",
   "textNoteDescription": "Notatka",
-  "textNote": "W okresie od 30.05.2022 r. do 28.06.2022 r. przesłuchano 26 395 obywateli UE",
-  "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://europa.eu/eurobarometr/surveys/detail/2672",
+  "textNote": "W okresie od 30.05.2022 r. do 28.06.2022 r. przebadano 26 395 obywateli UE",
+  "textDataAccess": "Dostęp do danych",
+  "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

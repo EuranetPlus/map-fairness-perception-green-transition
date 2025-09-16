@@ -1,13 +1,13 @@
 {
-  "heading": "Zaznana pravičnost ukrepov EU v smeri poštenega zelenega prehoda v EU",
-  "subheading": "88 % anketiranih državljanov EU se popolnoma strinja, da zeleni prehod ne sme nikogar pustiti ob strani, 50 % pa meni, da EU ravna ustrezno",
-  "legend1": "Ni podatkov",
-  "tooltip1": "ukrepe za zeleni prehod razumejo kot pravične",
+  "heading": "Ali EU stori dovolj za zagotovitev pravičnega ekološkega prehoda po vsej Evropski uniji?",
+  "subheading": "88 % evropskih državljanov meni, da je prednostna naloga zelenega prehoda, da nihče ne bo zapostavljen. 50 % jih meni, da EU sprejema ustrezne ukrepe.",
+  "legend1": "Ni na voljo podatkov",
+  "tooltip1": "dojemajo ukrepe za zeleni prehod kot pravične",
   "textSourceDescription": "Vir",
   "textSource": "Eurobarometer",
   "textNoteDescription": "Opomba",
-  "textNote": "Od 30. 5. 2022 do 28. 6. 2022 je bilo anketiranih 26.395 državljanov EU",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textNote": "Med 30. 5. 2022 in 28. 6. 2022 je bilo anketiranih 26.395 državljanov EU.",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
   "textCountryClick": "Kliknite za več informacij"
 }

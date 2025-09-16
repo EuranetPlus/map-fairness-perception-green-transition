@@ -1,13 +1,13 @@
 {
-  "heading": "Uztvertā ES rīcības godīgums ceļā uz godīgu zaļo pāreju ES",
-  "subheading": "88% aptaujāto ES pilsoņu pilnībā piekrīt, ka zaļā pāreja nedrīkst atstāt nevienu novārtā, un 50% uzskata, ka ES rīkojas adekvāti.",
-  "legend1": "Nav pieejami dati",
-  "tooltip1": "pasākumus zaļās pārejas virzienā uztvert kā godīgus",
+  "heading": "Vai ES dara pietiekami, lai nodrošinātu taisnīgu ekoloģisko pāreju visā Eiropas Savienībā?",
+  "subheading": "88 % Eiropas iedzīvotāju uzskata, ka zaļās pārkārtošanās prioritāte ir neatstāt nevienu novārtā. 50 % domā, ka ES veic atbilstošus pasākumus.",
+  "legend1": "Dati nav pieejami",
+  "tooltip1": "uztvert pasākumus zaļās pārkārtošanās virzienā kā taisnīgus",
   "textSourceDescription": "Avots",
   "textSource": "Eirobarometrs",
   "textNoteDescription": "Piezīme",
-  "textNote": "No 30.05.2022 līdz 28.06.2022 aptaujāti 26 395 ES pilsoņi",
+  "textNote": "No 2022. gada 30. maija līdz 2022. gada 28. jūnijam tika aptaujāti 26 395 ES pilsoņi.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

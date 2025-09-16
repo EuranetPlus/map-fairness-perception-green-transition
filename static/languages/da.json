@@ -1,13 +1,13 @@
 {
-  "heading": "Opfattet retfærdighed af EU-handlinger mod en retfærdig grøn omstilling i EU",
-  "subheading": "88 % af de adspurgte EU-borgere er helt enige i, at den grønne omstilling ikke må efterlade nogen, og 50 % mener, at EU handler tilstrækkeligt",
-  "legend1": "Ingen tilgængelig data",
-  "tooltip1": "opfatter tiltagene mod den grønne omstilling som rimelige",
+  "heading": "Gør EU nok for at sikre en retfærdig økologisk omstilling i hele Den Europæiske Union?",
+  "subheading": "88 % af de europæiske borgere mener, at det er en prioritet for den grønne omstilling at lade ingen i stikken. 50 % mener, at EU træffer tilstrækkelige foranstaltninger.",
+  "legend1": "Ingen data tilgængelige",
+  "tooltip1": "opfatter foranstaltningerne i retning af grøn omstilling som retfærdige",
   "textSourceDescription": "Kilde",
   "textSource": "Eurobarometer",
-  "textNoteDescription": "Bemærk",
+  "textNoteDescription": "Note",
   "textNote": "26.395 EU-borgere blev interviewet fra 30.05.2022 til 28.06.2022",
-  "textDataAccess": "Få adgang til data",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://europa.eu/eurobarometer/surveys/detail/2672",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }
